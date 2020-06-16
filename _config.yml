@@ -37,6 +37,12 @@ author_education_details:
                 college_name: Waseda Univ.
                 college_url: https://www.waseda.jp/
                 college_degree: CS Engineer
+                description: Doctoral candidate of Computer Science
+                visibility: true
+              - college_logo: waseda.png
+                college_name: Waseda Univ.
+                college_url: https://www.waseda.jp/
+                college_degree: CS Engineer
                 description: Master of Computer Science
                 visibility: true
 
