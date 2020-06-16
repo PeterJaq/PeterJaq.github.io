@@ -17,12 +17,12 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+author: 江岸青(Jiang anqing)
+author_bio: My name is Jiang anqing, a PhD student from Waseda Univ.
+author_email: "anqingjiang0524@akane.waseda.com"
+author_location: China/Japan
+author_website_url: "blog.currytech.com"
+typewrite-text: 大数据 机器学习 光学工程(天坑向) 自适应韭菜
 
 author_work_experiences:
             - company_name: SAIC
@@ -30,7 +30,7 @@ author_work_experiences:
               company_url: https://www.waseda.jp/
               designation: Machine learning Engineer (Intern)
               description: Worked on various SAIC cloud
-              visibility: false
+              visibility: true
 
 author_education_details:
               - college_logo: waseda.png
