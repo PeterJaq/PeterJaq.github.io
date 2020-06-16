@@ -58,7 +58,7 @@ linkedin_username: 江岸青
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: peterjaq
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
@@ -78,11 +78,11 @@ show_author_project_details: true
 
 # algolia search
 algolia:
-  application_id: D9WA1YKTRQ
+  application_id: 641UKA0CWM
   index_name: blog_posts # You can replace that with whatever name you want
   files_to_exclude: []
   nodes_to_index: 'article'
-  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+  search_only_api_key: fbf177d52995e20aadb1f5321d4179f9
 
 # pagination of posts
 paginate: 4
