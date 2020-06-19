@@ -3,7 +3,7 @@ subtitle: 一个小弱鸡的笔记
 description: >- # this means to ignore newlines until "baseurl:"
     大数据 机器学习 光学工程(天坑向) 自适应韭菜
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://PeterJaq.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
