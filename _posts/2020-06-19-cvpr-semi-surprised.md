@@ -9,6 +9,8 @@ summary: CVPR-2020半监督学习论文集合
 ---
 # CVPR2020 半监督学习论文合集
 
+最近在做一些有半监督学习和主动学习的工作，
+
 1. [A Semi-Supervised Assessor of Neural Architectures](https://arxiv.org/abs/2005.06821)
 
 2. [From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement](http://openaccess.thecvf.com/content_CVPR_2020/html/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_paper.html)
